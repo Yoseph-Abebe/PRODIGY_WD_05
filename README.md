@@ -1,5 +1,4 @@
 # ⛅ Weather App
-# 🖥️ Tech Stack
 -   HTML & CSS
 -   Vanilla Javascript
 -   [Openweather API](https://openweathermap.org/api)
